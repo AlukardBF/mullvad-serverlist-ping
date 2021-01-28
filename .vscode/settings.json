@@ -2,8 +2,11 @@
     "cSpell.words": [
         "mullvad",
         "multihop",
+        "openvpn",
         "pubkey",
         "reqwest",
+        "serverlist",
+        "structopt",
         "winping"
     ]
 }
